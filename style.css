@@ -1,0 +1,30 @@
+/*.entry-title {
+	border-bottom: 2px solid #ccc;
+	margin-bottom: 1em;
+	padding: 10px;
+	font-size: 24px;
+	font-weight: bold;
+}*/
+
+.title {
+	margin-bottom: 1em;
+	font-size: 2em;
+}
+
+.headline {
+	padding-bottom: 10px;
+	border-bottom: 2px solid #ccc;
+}
+
+.introduction {
+	line-height: 1.5;
+	font-size: 18px;
+}
+
+.lead {
+	margin-bottom: 0.5em;
+	text-align: center;
+	font-size: 36px;
+	font-weight: bold;
+}
+
